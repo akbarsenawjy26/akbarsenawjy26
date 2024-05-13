@@ -1,4 +1,4 @@
-## Hello!
+# Hello!
 
 ## About Me
 Hello, I am a junior Firmware Engineer with a passion for developing Internet of Things (IoT) device firmware based on microcontrollers. Over the past 2 years, I have been focused on writing firmware for remote monitoring systems across various projects. Currently, I work as an R&D Electrical Engineer at a national Transformer company.
